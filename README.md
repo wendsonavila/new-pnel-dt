@@ -36,6 +36,7 @@ Exemplo:
 PORT=                // 3000
 NODE_ENV=            // "production"
 DATABASE_URL=        // "file:./database.db"
+IMGBB_API_KEY=       // "04344..."
 CSRF_SECRET=         //
 JWT_SECRET_KEY=      //
 JWT_SECRET_REFRESH=  //
